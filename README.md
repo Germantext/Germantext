@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy German Rojas 
 
-<!--
-**Germantext/Germantext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **CRM / Marketing Data Analyst** en formación — especializado en análisis de embudos, retención de clientes y métricas SaaS (CAC, LTV, churn, MRR/ARR).
 
-Here are some ideas to get you started:
+🛠️ **Stack:** Python (Pandas) · SQL · Power BI · HubSpot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Actualmente construyendo proyectos de análisis de datos enfocados en revenue operations y customer analytics para entornos SaaS.
+
+🔗 [LinkedIn](https://linkedin.com/in/german-rojas-data) 
+
+---
+### 📌 Proyectos destacados
+- **mercadolibre_funnel_retention** — análisis de embudo y retención de clientes
+- **walmart_sales_analysis** — análisis de ventas y patrones de compra
+- **financial_performance_sql** — consultas SQL para análisis financiero
+- **mobility_economy_latam** — análisis económico regional
