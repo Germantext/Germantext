@@ -1,16 +1,14 @@
-# Hola, soy German Rojas 
+### Hola, soy Germán Rojas 👋
 
-🎯 **CRM / Marketing Data Analyst** en formación — especializado en análisis de embudos, retención de clientes y métricas SaaS (CAC, LTV, churn, MRR/ARR).
+Customer Insights / CRM Data Analyst, en transición desde la escritura y el análisis del discurso hacia el análisis de comportamiento de cliente en entornos SaaS.
 
-🛠️ **Stack:** Python (Pandas) · SQL · Power BI · HubSpot
+Certificado en Data Analytics por TripleTen (enero-julio 2026) y en ciencia de datos por el Matsuo-Iwasawa Laboratory, The University of Tokyo (2026).
 
-📊 Actualmente construyendo proyectos de análisis de datos enfocados en revenue operations y customer analytics para entornos SaaS.
+Mi diferencial es convertir el número en la explicación de por qué pasó y qué decisión se sigue de ahí, no solo en un dashboard.
 
-🔗 [LinkedIn](https://linkedin.com/in/german-rojas-data) 
+**Stack:** Python (pandas) · SQL · Power BI · HubSpot
+**Enfoque:** churn y retención · funnels · segmentación de clientes · métricas SaaS · Voice of Customer
 
----
-### 📌 Proyectos destacados
-- **mercadolibre_funnel_retention** — análisis de embudo y retención de clientes
-- **walmart_sales_analysis** — análisis de ventas y patrones de compra
-- **financial_performance_sql** — consultas SQL para análisis financiero
-- **mobility_economy_latam** — análisis económico regional
+📂 Todos mis proyectos, con problema de negocio, metodología y resultados, están en **[data-analytics-portfolio](https://github.com/Germantext/data-analytics-portfolio)**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/german-rojas-data/)
