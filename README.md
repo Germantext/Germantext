@@ -1,14 +1,11 @@
-### Hola, soy Germán Rojas 👋
+# German Rojas — Customer Insights & CRM Data Analyst
 
-Customer Insights / CRM Data Analyst, en transición desde la escritura y el análisis del discurso hacia el análisis de comportamiento de cliente en entornos SaaS.
+Combino la interpretación narrativa del comportamiento humano con el análisis de datos para responder preguntas de negocio concretas en entornos SaaS. Quién está por cancelar, qué segmento genera más revenue, dónde se rompe el funnel.
 
-Certificado en Data Analytics por TripleTen (enero-julio 2026) y en ciencia de datos por el Matsuo-Iwasawa Laboratory, The University of Tokyo (2026).
+Mi formación en escritura y análisis del discurso define cómo trabajo: el número es el punto de partida, no la conclusión. Entrego la explicación de por qué pasó y qué decisión se sigue de ahí.
 
-Mi diferencial es convertir el número en la explicación de por qué pasó y qué decisión se sigue de ahí, no solo en un dashboard.
+**Stack:** Python (pandas) · SQL · Power BI · HubSpot · Excel avanzado
+**Enfoque:** churn y retención · análisis de funnels · segmentación de clientes · métricas de negocio · Voice of Customer
 
-**Stack:** Python (pandas) · SQL · Power BI · HubSpot
-**Enfoque:** churn y retención · funnels · segmentación de clientes · métricas SaaS · Voice of Customer
-
-📂 Todos mis proyectos, con problema de negocio, metodología y resultados, están en **[data-analytics-portfolio](https://github.com/Germantext/data-analytics-portfolio)**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/german-rojas-data/)
+📍 Colombia · Disponible para trabajo remoto
+📧 german.rojas.data@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/german-rojas-data/)
